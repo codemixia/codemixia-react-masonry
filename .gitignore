@@ -1,0 +1,9 @@
+.idea
+.publish
+.DS_Store
+*.iml
+*.log
+npm-debug*.*
+node_modules
+dist
+package-lock.json
